@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Viajante do tempo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <main class="container-calculator">
+        <!-- Tela -->
+        <div class="container-screen">
+            <input type="text" class=" screen" id="triangle-side-a" placeholder="Cateto a">
+            <input type="text" class="screen" id="triangle-side-b" placeholder="Cateto b">
+            <input type="text" class="screen" id="hypotenuse" placeholder="Hipotenusa" disabled>
+        </div>
+
+        <!--linha1-->
+        <div class="row ">
+            <div class="btn calculator-key" data-number="7" name="7">7</div>
+            <div class="btn calculator-key">8</div>
+            <div class="btn calculator-key">9</div>
+            <div class="btn small-letter" id="close-window">Close</div>
+        </div>
+
+        <!--linha2 -->
+        <div class="row ">
+            <div class="btn calculator-key">4</div>
+            <div class="btn calculator-key">5</div>
+            <div class="btn calculator-key">6</div>
+            <div class="btn small-letter" id="reset-btn">Reset</div>
+        </div>
+
+        <!--linha3 -->
+        <div class="row small-row ">
+            <div class="btn calculator-key">1</div>
+            <div class="btn calculator-key">2</div>
+            <div class="btn calculator-key">3</div>
+        </div>
+
+        <double-botton>
+            <div class="double-col">
+                <div class="btn double-height-btn" id="submit-triangle-values">=</div>
+            </div>
+        </double-botton>
+
+        <!--linha4-->
+        <div class="row small-row ">
+            <div class="btn calculator-key double-width-btn" id="zero">0</div>
+            <div class="btn calculator-key" id="decimal">.</div>
+        </div>
+
+        <!--Fim do fluxo flutuante-->
+        <div class="clear "></div>
+    </main>
+    <script src="main.js" type="text/javascript"></script>
+</body>
+
+</html>
