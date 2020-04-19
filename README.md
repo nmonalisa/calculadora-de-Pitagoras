@@ -5,8 +5,8 @@
 * [1. Contextualização](#1-contextualização)
 * [2. Objetivo](#2-objetivo)
 * [3. Interface e Experiência do Usuário](#3-UI-UX)
-* [4. Árvore de diretórios e arquivos:](#4-árvore-de-diretórios-e-arquivos)
-* [5. Outras informações:](#6-outras-informações)
+* [4. Árvore de diretórios e arquivos](#4-árvore-de-diretórios-e-arquivos)
+* [5. Outras informações](#6-outras-informações)
 
 
 ## 1. Contextualização:
