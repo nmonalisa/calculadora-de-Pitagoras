@@ -49,5 +49,5 @@ Veja abaixo uma imagem com a evolução da interface durante a execução do pro
 * assets/prototypes.png: imagem contendo a evolução da interface do usuário ao longo do projeto.
 
 ## 5. Outras informações:
-* Projeto desenvolvido com JavaScript puro (sem utilização de frameworks).<br>
+* Projeto desenvolvido com JavaScript puro (sem utilização de frameworks) como pré-requisito de processo seletivo para estágio em TI.<br>
 * Autora: Nathalia Monalisa Francisco (nathaliamonalisa@gmail.com).
